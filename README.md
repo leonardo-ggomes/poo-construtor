@@ -1,5 +1,4 @@
-# poo-construtor
-
+# Exemplo
 Este repositório contém exemplos práticos que ilustram os fundamentos da Programação Orientada a Objetos (POO) e o padrão de arquitetura MVC (Model-View-Controller). Utilizando JavaScript e EJS, o projeto visa facilitar a compreensão desses conceitos essenciais para o desenvolvimento de software estruturado e escalável.
 
 ## 📚 Tecnologias Utilizadas
@@ -68,6 +67,3 @@ poo-construtor/
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Se desejar, posso personalizar ainda mais este `README.md` com informações adicionais, como exemplos de uso, imagens ou links para documentação externa. Basta me informar suas preferências! 
